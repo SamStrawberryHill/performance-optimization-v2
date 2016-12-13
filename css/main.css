@@ -6697,7 +6697,7 @@ th.hide-for-touch {
         color: #fff;
     }
     .menu .logo {
-        background: url('../img/logo.png') no-repeat top left;
+        background: url('../img/smalllogo.png') no-repeat top left;
         background-size: contain;
         font-family: "Arvo", serif;
         font-size: 2rem;
